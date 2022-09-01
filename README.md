@@ -1,0 +1,2 @@
+# vagrant-ckan
+vagrant ckan
